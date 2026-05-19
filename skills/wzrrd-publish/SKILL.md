@@ -7,6 +7,8 @@ description: Publish static files or directories to wzrrd.sh. Use for sharing ag
 
 Use `wzrrd` to publish static files and directories to `https://<slug>.wzrrd.sh/`.
 
+Public CLI and skill distribution repo: `wzrrd-sh/wzrrd-cli`.
+
 ## Install
 
 If `wzrrd` is missing:

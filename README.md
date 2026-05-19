@@ -20,3 +20,9 @@ The installer downloads the latest release binary for your platform from this re
 ## Agent skill
 
 The `wzrrd-publish` skill lives in `skills/wzrrd-publish`.
+
+## Install the agent skill
+
+```bash
+npx skills add wzrrd-sh/wzrrd-cli --skill wzrrd-publish -g
+```
