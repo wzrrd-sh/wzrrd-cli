@@ -10,7 +10,7 @@ curl -fsSL https://wzrrd.sh/install.sh | bash
 
 The installer downloads the latest release binary for your platform from this repo.
 
-Latest release source version: `v0.4.0`
+Latest release source version: `v0.4.1`
 
 ## Release assets
 
